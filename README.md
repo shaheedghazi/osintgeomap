@@ -301,6 +301,17 @@ https://shaheedghazi.github.io/osintgeomap
 | Zurich | <a href="https://www.viacar.ch/eindex/login.aspx?kanton=ZH">License plates search</a> |
 
 
+       
+<hr>
+
+Twitter — https://twitter.com/shaheedghazi
+
+Telegram — https://t.me/shaheedghazi
+
+Github — https://github.com/shaheedghazi
+
+<hr>
+            
 
 <h1>What if you want to make a copy of the map with other points?</h1>
 
@@ -324,14 +335,3 @@ https://shaheedghazi.github.io/osintgeomap
                iconColor: '#ff0000'
             }))    
           
-       
-<hr>
-
-Twitter — https://twitter.com/shaheedghazi
-
-Telegram — https://t.me/shaheedghazi
-
-Github — https://github.com/shaheedghazi
-
-<hr>
-            

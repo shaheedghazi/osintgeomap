@@ -4,9 +4,9 @@
 
 
 <div>
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/osintmap">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/shaheedghazi/osintgeomap">
  
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/osintmap">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/shaheedghazi/osintgeomap">
 
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
@@ -15,7 +15,7 @@
 
 Explore this project at:
 
-https://cipher387.github.io/osintmap/
+https://shaheedghazi.github.io/osintgeomap
 
 ![Worldwide OSINT Map](https://github.com/cipher387/osintmap/blob/main/osintmap.jpg)
 
@@ -327,13 +327,11 @@ https://cipher387.github.io/osintmap/
        
 <hr>
 
-Twitter — https://twitter.com/cyb_detective
+Twitter — https://twitter.com/shaheedghazi
 
-Telegram — https://t.me/cybdetective
+Telegram — https://t.me/shaheedghazi
 
-Github — https://github.com/cipher387
-
-Discord — https://cipher387.github.io/discordlink.html
+Github — https://github.com/shaheedghazi
 
 <hr>
             
